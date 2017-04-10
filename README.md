@@ -1,0 +1,2 @@
+# redisMonitor
+redis cmd monitor
